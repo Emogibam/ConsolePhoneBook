@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WuXhAMZ6tTgo9g583eIBK8X2/IB44qYYA1uZvC4k9r+NP70yPc1uceh516pCxbQe6vSaJpLkaEr1JMlKrO7G5g==",
+  "dgSpecHash": "ofQf+5X45E6dyFpJZU/L6VDgatYABn4wCwHYzfzk7jDUaH/LdeUT/F40G9gxtQN8pUsnMnzXwKhNkfpWo4nQgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\MypersonalProject\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
